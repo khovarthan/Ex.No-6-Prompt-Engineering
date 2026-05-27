@@ -40,6 +40,7 @@ else:
     print("\nInsight: The review tone is neutral or negative.")
 ```
 Output:
+
 output 1
 ```
 Enter the Review:This smartphone offers outstanding battery life and an intelligent AI camera that captures stunning photos.
